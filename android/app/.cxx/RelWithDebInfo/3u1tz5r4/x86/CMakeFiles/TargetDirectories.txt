@@ -1,0 +1,2 @@
+/Users/ramyamorla/Desktop/MAD/CourseWork06_TaskApp_Firebase-main/android/app/.cxx/RelWithDebInfo/3u1tz5r4/x86/CMakeFiles/edit_cache.dir
+/Users/ramyamorla/Desktop/MAD/CourseWork06_TaskApp_Firebase-main/android/app/.cxx/RelWithDebInfo/3u1tz5r4/x86/CMakeFiles/rebuild_cache.dir
